@@ -1,0 +1,12 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.1
+lightgbm>=3.3
+joblib
+fastapi
+uvicorn
+pydantic
+streamlit
+matplotlib
+seaborn
+prophet>=1.1   # optional, only if you want Prophet-based baseline
