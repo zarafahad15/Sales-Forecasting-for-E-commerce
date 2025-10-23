@@ -21,6 +21,8 @@ Goal: Predict daily product-level sales for an e-commerce store using historical
 This repo is end-to-end: data generation/ingestion, feature engineering, time-based validation, model training (LightGBM), evaluation, model saving, and a minimal FastAPI prediction service + Streamlit demo.
 
 How to run (quick start)
+
+
 	1.	Create virtual environment & install:
   python -m venv .venv
 source .venv/bin/activate      # macOS/Linux
